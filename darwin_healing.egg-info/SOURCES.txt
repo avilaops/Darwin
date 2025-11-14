@@ -1,0 +1,11 @@
+README.md
+setup.py
+darwin/__init__.py
+darwin/core.py
+darwin/patterns.py
+darwin_healing.egg-info/PKG-INFO
+darwin_healing.egg-info/SOURCES.txt
+darwin_healing.egg-info/dependency_links.txt
+darwin_healing.egg-info/entry_points.txt
+darwin_healing.egg-info/requires.txt
+darwin_healing.egg-info/top_level.txt
